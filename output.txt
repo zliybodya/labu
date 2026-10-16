@@ -1,0 +1,5 @@
+Students: 2
+Avarage: 80.0
+Best: Anna
+Below avarage:
+Ivan
